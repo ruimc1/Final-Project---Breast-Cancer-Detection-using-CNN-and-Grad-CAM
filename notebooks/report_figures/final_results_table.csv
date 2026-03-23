@@ -1,0 +1,4 @@
+,Accuracy,Precision,Recall,F1-Score,Specificity,AUC
+Resnet18,0.752,0.6452,0.8108,0.7186,0.7143,0.82
+Resnet50,0.5541,0.4598,0.8108,0.5868,0.3896,0.6534
+SwinDAMFN Hybrid,0.7098,0.5841,0.8919,0.7059,0.5931,0.8292
